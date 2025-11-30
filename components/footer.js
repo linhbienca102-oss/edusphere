@@ -9,7 +9,7 @@ class CustomFooter extends HTMLElement {
                             <span class="text-lg font-semibold text-white">Học để giải trí</span>
                         </div>
                         <p class="text-gray-400 mb-2">Nền tảng học tập thông minh</p>
-                        <p class="text-sm text-gray-500">&copy; 2024 EduSphere. Tất cả quyền được bảo lưu.</p>
+                        <p class="text-sm text-gray-500">&copy; 2024 Học để giải trí. Tất cả quyền được bảo lưu.</p>
                     </div>
                 </div>
             </footer>
@@ -19,3 +19,4 @@ class CustomFooter extends HTMLElement {
 
 
 customElements.define('custom-footer', CustomFooter);
+
